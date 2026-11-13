@@ -1,8 +1,6 @@
 
 <div align="center">
 
-<img src="./assets/header.svg" alt="COBAIA.GPT — Laboratório público de inteligência artificial" width="100%" />
-
 ### NÃO VENDEMOS O FUTURO. PUBLICAMOS O CÓDIGO.
 
 **30 DIAS · 30 EXPERIMENTOS · ZERO PAYWALL**
