@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/34812900/README.1.md)
+
 <div align="center">
 
 <img src="./assets/header.svg" alt="COBAIA.GPT — Laboratório público de inteligência artificial" width="100%" />
